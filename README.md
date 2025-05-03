@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ErosxJack/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ErosxJack/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0055-jump-game](https://github.com/ErosxJack/LeetCode/tree/master/0055-jump-game) |
 | [0229-majority-element-ii](https://github.com/ErosxJack/LeetCode/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ErosxJack/LeetCode/tree/master/0229-majority-element-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/ErosxJack/LeetCode/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/ErosxJack/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
