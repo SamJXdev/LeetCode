@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ErosxJack/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ErosxJack/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0051-n-queens](https://github.com/ErosxJack/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/ErosxJack/LeetCode/tree/master/0055-jump-game) |
 | [0229-majority-element-ii](https://github.com/ErosxJack/LeetCode/tree/master/0229-majority-element-ii) |
 ## Hash Table
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ErosxJack/LeetCode/tree/master/0055-jump-game) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ErosxJack/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
