@@ -3,10 +3,13 @@ class Solution {
         if (dividend == divisor){
             return 1;
         }
+
         boolean sign = true;
+
         if((dividend>=0 && divisor<0) || (dividend<=0 && divisor>0)){
             sign = false;
         }
+
         long a = Math.abs((long)dividend);
         long b = Math.abs((long)divisor);
         long quotient = 0;
@@ -23,8 +26,8 @@ class Solution {
         if(quotient>=(1L<<31)){
             return sign ? Integer.MAX_VALUE : Integer.MIN_VALUE; 
         }
-
-        return sign ? (int)quotient : (int)-quotient;
-        
+        else{
+            return sign ? (int)quotient : (int)-quotient;
+        }
     }
 }
