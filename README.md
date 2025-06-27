@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ErosxJack/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ErosxJack/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/ErosxJack/LeetCode/tree/master/0029-divide-two-integers) |
+| [0357-count-numbers-with-unique-digits](https://github.com/ErosxJack/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ErosxJack/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ErosxJack/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ErosxJack/LeetCode/tree/master/0055-jump-game) |
+| [0357-count-numbers-with-unique-digits](https://github.com/ErosxJack/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ErosxJack/LeetCode/tree/master/0051-n-queens) |
+| [0357-count-numbers-with-unique-digits](https://github.com/ErosxJack/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Two Pointers
 |  |
 | ------- |
