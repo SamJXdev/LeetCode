@@ -4,13 +4,9 @@ class Solution {
             return 1;
         }
         boolean sign = true;
-        if(dividend>=0 && divisor<0){
+        if((dividend>=0 && divisor<0) || (dividend<=0 && divisor>0)){
             sign = false;
         }
-        if(dividend<=0 && divisor>0){
-            sign = false;
-        }
-
         long a = Math.abs((long)dividend);
         long b = Math.abs((long)divisor);
         long quotient = 0;
