@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ErosxJack/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ErosxJack/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ErosxJack/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0367-valid-perfect-square](https://github.com/ErosxJack/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ErosxJack/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/ErosxJack/LeetCode/tree/master/0029-divide-two-integers) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ErosxJack/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0367-valid-perfect-square](https://github.com/ErosxJack/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Sorting
 |  |
 | ------- |
