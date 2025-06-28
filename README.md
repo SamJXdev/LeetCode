@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ErosxJack/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/ErosxJack/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ErosxJack/LeetCode/tree/master/0229-majority-element-ii) |
+| [1646-kth-missing-positive-number](https://github.com/ErosxJack/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ErosxJack/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ErosxJack/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0367-valid-perfect-square](https://github.com/ErosxJack/LeetCode/tree/master/0367-valid-perfect-square) |
+| [1646-kth-missing-positive-number](https://github.com/ErosxJack/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
 | ------- |
