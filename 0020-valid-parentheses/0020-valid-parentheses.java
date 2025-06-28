@@ -1,8 +1,7 @@
 class Solution {
    public boolean isValid(String s) {
         Stack<Character> stack = new Stack<>();
-        
-        for (char c : s.toCharArray()) {
+        for (char c: s.toCharArray()) { 
             // Push opening brackets onto the stack
             if (c == '(' || c == '{' || c == '[') {
                 stack.push(c);
