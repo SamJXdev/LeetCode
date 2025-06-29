@@ -1,25 +1,24 @@
 class Solution {
     public int trap(int[] height) {
-        int left = 0;
+        int left =0;
         int right = height.length-1;
-        int leftMax = height[0];
-        int rightMax = height[right];
-        int ans = 0;
+        int leftmax = height[left];
+        int rightmax = height[right];
+        int result =0;
 
-        while(left < right){
-            if (leftMax < rightMax){
+        while(left<right){
+            if(leftmax<=rightmax){
                 left++;
-                leftMax = Math.max(leftMax,height[left]);
-                ans += leftMax - height[left];
+                leftmax = Math.max(leftmax,height[left]);
+                result += leftmax - height[left];
             }
             else{
                 right--;
-                rightMax = Math.max(rightMax, height[right]);
-                ans += rightMax - height[right];
+                rightmax = Math.max(rightmax,height[right]);
+                result +=rightmax - height[right];
             }
         }
-        return ans;
+        return result;
 
-        
     }
 }
