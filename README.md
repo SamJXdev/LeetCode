@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ErosxJack/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/ErosxJack/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ErosxJack/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/ErosxJack/LeetCode/tree/master/0125-valid-palindrome) |
 ## String
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ErosxJack/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/ErosxJack/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ErosxJack/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/ErosxJack/LeetCode/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
