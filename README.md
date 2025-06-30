@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ErosxJack/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ErosxJack/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/ErosxJack/LeetCode/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/ErosxJack/LeetCode/tree/master/0050-powx-n) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ErosxJack/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/ErosxJack/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Sorting
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ErosxJack/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/ErosxJack/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0050-powx-n](https://github.com/ErosxJack/LeetCode/tree/master/0050-powx-n) |
 ## Sliding Window
 |  |
 | ------- |
