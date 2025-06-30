@@ -1,8 +1,8 @@
 class Solution {
     public double myPow(double x, int n) {
        double result = helper(x,Math.abs(n));
-       result = (n<0)? 1/result : result;
-       return result;
+       return (n<0)? 1/result : result;
+  
     }
 
        public double helper(double x,int n)
@@ -12,7 +12,6 @@ class Solution {
 
        double result = helper(x,n/2);
        result = result*result;
-       result = (n%2==0)? result: result*x;
-       return result;
+       return (n%2==0)? result: result*x;
        }
 }
