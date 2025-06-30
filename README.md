@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ErosxJack/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/ErosxJack/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ErosxJack/LeetCode/tree/master/0229-majority-element-ii) |
+| [0875-longest-mountain-in-array](https://github.com/ErosxJack/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1646-kth-missing-positive-number](https://github.com/ErosxJack/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Hash Table
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ErosxJack/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ErosxJack/LeetCode/tree/master/0055-jump-game) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ErosxJack/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0875-longest-mountain-in-array](https://github.com/ErosxJack/LeetCode/tree/master/0875-longest-mountain-in-array) |
 ## Greedy
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ErosxJack/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ErosxJack/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/ErosxJack/LeetCode/tree/master/0125-valid-palindrome) |
+| [0875-longest-mountain-in-array](https://github.com/ErosxJack/LeetCode/tree/master/0875-longest-mountain-in-array) |
 ## String
 |  |
 | ------- |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ErosxJack/LeetCode/tree/master/0042-trapping-rain-water) |
+## Enumeration
+|  |
+| ------- |
+| [0875-longest-mountain-in-array](https://github.com/ErosxJack/LeetCode/tree/master/0875-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
