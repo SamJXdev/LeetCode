@@ -7,7 +7,7 @@ class Solution {
             if(nums[mid]>nums[right]){
                 left = mid+1;
             }
-            else if(nums[mid]>nums[right]){
+            else if(nums[mid]<nums[right]){
                 right=mid;
             }
             else{
