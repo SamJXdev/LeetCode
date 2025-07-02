@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ErosxJack/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ErosxJack/LeetCode/tree/master/0229-majority-element-ii) |
 | [0875-longest-mountain-in-array](https://github.com/ErosxJack/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/ErosxJack/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1646-kth-missing-positive-number](https://github.com/ErosxJack/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ErosxJack/LeetCode/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/ErosxJack/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ErosxJack/LeetCode/tree/master/0229-majority-element-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/ErosxJack/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ErosxJack/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/ErosxJack/LeetCode/tree/master/0125-valid-palindrome) |
 | [0875-longest-mountain-in-array](https://github.com/ErosxJack/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/ErosxJack/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
