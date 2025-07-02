@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ErosxJack/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/ErosxJack/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/ErosxJack/LeetCode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/ErosxJack/LeetCode/tree/master/0070-climbing-stairs) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ErosxJack/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/ErosxJack/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Sorting
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ErosxJack/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ErosxJack/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ErosxJack/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/ErosxJack/LeetCode/tree/master/0070-climbing-stairs) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ErosxJack/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0875-longest-mountain-in-array](https://github.com/ErosxJack/LeetCode/tree/master/0875-longest-mountain-in-array) |
 ## Greedy
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/ErosxJack/LeetCode/tree/master/0875-longest-mountain-in-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ErosxJack/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
