@@ -121,12 +121,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ErosxJack/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ErosxJack/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ErosxJack/LeetCode/tree/master/0242-valid-anagram) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ErosxJack/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ErosxJack/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ErosxJack/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ErosxJack/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ErosxJack/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Linked List
 |  |
 | ------- |
