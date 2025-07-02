@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ErosxJack/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/ErosxJack/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ErosxJack/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ErosxJack/LeetCode/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ErosxJack/LeetCode/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/ErosxJack/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ErosxJack/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ErosxJack/LeetCode/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/ErosxJack/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ErosxJack/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ErosxJack/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ErosxJack/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/ErosxJack/LeetCode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
