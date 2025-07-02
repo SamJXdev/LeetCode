@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ErosxJack/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/ErosxJack/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/ErosxJack/LeetCode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/ErosxJack/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/ErosxJack/LeetCode/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ErosxJack/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/ErosxJack/LeetCode/tree/master/0169-majority-element) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ErosxJack/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/ErosxJack/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/ErosxJack/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/ErosxJack/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ErosxJack/LeetCode/tree/master/0070-climbing-stairs) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ErosxJack/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/ErosxJack/LeetCode/tree/master/0367-valid-perfect-square) |
