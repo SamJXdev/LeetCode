@@ -1,27 +1,15 @@
 class Solution {
-    public static int lengthOfLongestSubstring(String s) {
-        int n = s.length();
-        int left = 0, right = 0, maxLength = 0;
+    public int lengthOfLongestSubstring(String s) {
+        int[] lastIndex = new int[128];  // tracks last seen positions (+1)
+        int maxLen = 0, start = 0;
 
-        HashSet<Character> set = new HashSet<>();
-
-        while (right < n) {
-            if (!set.contains(s.charAt(right))) {
-                set.add(s.charAt(right));
-                right++;
-                maxLength = Math.max(maxLength, right - left);
-            } else {
-                set.remove(s.charAt(left));
-                left++;
-            }
+        for (int end = 0; end < s.length(); end++) {
+            char c = s.charAt(end);
+            start = Math.max(start, lastIndex[c]);  // if seen in window, move start
+            maxLen = Math.max(maxLen, end - start + 1);
+            lastIndex[c] = end + 1;  // store index+1 to differentiate default 0
         }
 
-        return maxLength;
-    }
-
-    public static void main(String[] args) {
-        System.out.println(lengthOfLongestSubstring("abcabcbb"));  // Output: 3
-        System.out.println(lengthOfLongestSubstring("bbbbb"));     // Output: 1
-        System.out.println(lengthOfLongestSubstring("pwwkew"));    // Output: 3
+        return maxLen;
     }
 }
