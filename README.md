@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ErosxJack/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/ErosxJack/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ErosxJack/LeetCode/tree/master/0066-plus-one) |
+| [0135-candy](https://github.com/ErosxJack/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/ErosxJack/LeetCode/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ErosxJack/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/ErosxJack/LeetCode/tree/master/0169-majority-element) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ErosxJack/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/ErosxJack/LeetCode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/ErosxJack/LeetCode/tree/master/0135-candy) |
 ## Backtracking
 |  |
 | ------- |
